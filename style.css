@@ -1,0 +1,70 @@
+body{
+    background-color: black ;
+}
+.img{
+    border: solid black 4px;
+}
+.h0{
+    color: rgba(0, 0, 0, 0.945);
+    margin: -65px;
+}
+.h00{
+    color: rgb(3, 119, 80);
+    padding: 45px;
+}
+.para0{
+    color: rgb(3, 119, 80);
+}
+.tdb{
+    background-color: black;
+}
+.h11{
+    color: whitesmoke;
+}
+.para1{
+    color: rgb(3, 119, 80);
+}
+.para2{
+    color: rgba(128, 128, 128, 0.596);
+}
+.h12{
+    color: whitesmoke;
+}
+.fa-tv{
+    color:  rgb(3, 119, 80);
+}
+.h41{
+    color: whitesmoke;
+}
+.para3{
+    color:  rgba(128, 128, 128, 0.596);
+}
+.fa-database{
+    color:  rgb(3, 119, 80);
+}
+.h42{
+    color: whitesmoke;
+}
+.para4{
+    color: rgba(128, 128, 128, 0.596) ;
+}
+
+.fa-rocket{
+    color:  rgb(3, 119, 80);
+}
+
+.h43{
+    color: whitesmoke;
+}
+.para5{
+    color:  rgba(128, 128, 128, 0.596);
+}
+.fa-shield-alt{
+    color:  rgb(3, 119, 80);
+}
+.h44{
+    color: whitesmoke;
+}
+.para6{
+    color:  rgba(128, 128, 128, 0.596);
+}
